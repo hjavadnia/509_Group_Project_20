@@ -6,10 +6,6 @@
 
 * Size of dataset: 40,000
 
-
-(https://github.com/hjavadnia/509_Group_Project_20/assets/84368057/67804e70-36dc-43e8-bf7d-dd2877a57c64)
-
-
 *  The dataset was generated via API (OpenAI). The codes can be find here :
   https://github.com/hjavadnia/509_Group_Project_20/blob/main/Generate_%20Data_OpenAI.ipynb
   
