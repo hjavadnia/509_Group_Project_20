@@ -6,7 +6,7 @@
   https://github.com/hjavadnia/509_Group_Project_20/blob/main/Generate_%20Data_OpenAI.ipynb
 
 *  The generated CSV file can be find here :
-  https://github.com/hjavadnia/509_Group_Project_20/blob/main/cus_q_dataset_final.csv
+  https://github.com/hjavadnia/509_Group_Project_20/blob/main/customer_query.csv
 
 *  This supervised classification has 4 labels (Returns, Tech. Support, Product inquiries, Billing and payments)
 
