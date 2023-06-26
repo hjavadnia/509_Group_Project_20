@@ -14,6 +14,9 @@
 
 *  The EDA processing notebook can be find here :
    https://github.com/hjavadnia/509_Group_Project_20/blob/main/Exploratory_Data_Analysis.ipynb
+
+* The classification modeling notebook can be find here:
+  https://github.com/hjavadnia/509_Group_Project_20/blob/main/Classification_Modeling.ipynb
  
 
    
