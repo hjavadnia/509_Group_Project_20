@@ -19,7 +19,7 @@
   https://github.com/hjavadnia/509_Group_Project_20/blob/main/Classification_Modeling.ipynb
 
 * The topic modeling notebook can be find here:
-  https://github.com/hjavadnia/509_Group_Project_20/blob/main/Topic_Modeling.ipynb
+  https://github.com/hjavadnia/509_Group_Project_20/blob/main/Topic_ModelinG.ipynb
  
  
 
